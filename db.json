@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on woskstation 005",
+      "message": "Fixed server on 007",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2019-12-16T20:31:03.744Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Hard drive failed at workstation 032",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstaion 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sarah Wilson"
+      "tech": "Sara Wilson",
+      "date": "2019-12-16T20:31:53.860Z",
+      "id": 2
     }
   ],
   "techs": [
