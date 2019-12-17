@@ -9,8 +9,6 @@ import {
   SET_CURRENT,
   CLEAR_CURRENT
 } from "../actions/types";
-import { stat } from "fs";
-import { setCurrent } from "../actions/LogActions";
 
 const initialState = {
   logs: null,
